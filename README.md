@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+----------------
+🔭 Here I share most of the projects that I have worked on, to share my knowledge with others. 
+
+💬 Please Contact me via Hotmail for any queries **Waseemadel21@hotmail.com**
+
+😅 I do love Python but seems like it is a one-way love .. 
+
+Smile 📸 
 
 <!--
 **WassemAdil/WassemAdil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
