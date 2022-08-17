@@ -9,7 +9,7 @@
 
 💬 Please Contact me via Hotmail for any queries **Waseemadel21@hotmail.com**
 
-😅 I do love Python but seems like it is a one-way love .. 
+😅 I do love Python but seems like it is a one-way love...
 
 Smile 📸 
 
