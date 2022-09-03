@@ -1,7 +1,7 @@
 # Hi World 😄
 
 ----------------
-🔭 Here I share most of the projects that I have worked on, to share my knowledge with others. 
+🔭 Here I share some of the projects that I have worked on, to share my knowledge with others. 
 
 📺 Find me on [youtube](https://www.youtube.com/channel/UCL6faFdFmklVkwl35RxOZfA)
 
