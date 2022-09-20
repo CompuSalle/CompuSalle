@@ -5,7 +5,7 @@
 
 📺 Find me on [youtube](https://www.youtube.com/channel/UCL6faFdFmklVkwl35RxOZfA)
 
-<!--⌨️ Find me on [fiverr](https://www.fiverr.com/waseem_21?up_rollout=true)-->
+<!--⌨️ Find me on [fiverr](https://www.fiverr.com/waseem_21?up_rollout=true)
 
 💬 Please Contact me via Hotmail for any queries **@hotmail.com** -->
 
