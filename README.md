@@ -7,7 +7,7 @@
 
 <!--⌨️ Find me on [fiverr](https://www.fiverr.com/waseem_21?up_rollout=true)-->
 
-💬 Please Contact me via Hotmail for any queries **Waseemadel21@hotmail.com**
+💬 Please Contact me via Hotmail for any queries **@hotmail.com** -->
 
 😅 I do love Python but it is a one-way love...
 
