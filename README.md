@@ -1,27 +1,30 @@
-# Hi World 😄
+<img align="center" src="URL_TO_MY_PHOTO" alt="W.A" />
 
-----------------
-🔭 Here I share some of the projects that I have worked on, to share my knowledge with others. 
+# Hi there 👋
 
-<!--⌨️ Find me on [fiverr](https://www.fiverr.com/waseem_21)
+I am W.A, a Red Team Penetration Tester working everywhere since 2018. My focus is on identifying and exploiting security vulnerabilities to enhance system security across multiple platforms.
 
-💬 Please Contact me via Hotmail for any queries **@hotmail.com** -->
+## Skills
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-red?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-black?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-E34F26?style=flat-square&logo=owasp&logoColor=white)
 
-✨ Python
+## Achievements
+* Found critical vulnerabilities in major software platforms
+* Developed custom tools for automation in penetration testing
 
-Smile 📸 
+## Top Blog Posts
+- [SOON](YOUR_BLOG_POST_URL)
+- [SOON](YOUR_BLOG_POST_URL)
+<!--YES THIS IS A COMMENT -->
 
-<!--
-**WassemAdil/WassemAdil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=compusalle&show_icons=true&theme=light)
 
-Here are some ideas to get you started:
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=compusalle&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
