@@ -16,11 +16,6 @@ I am W.A, a Red Team Penetration Tester working everywhere since 2018. My focus 
 * Found critical vulnerabilities in major software platforms
 * Developed custom tools for automation in penetration testing
 
-## Top Blog Posts
-- [SOON](YOUR_BLOG_POST_URL)
-- [SOON](YOUR_BLOG_POST_URL)
-<!--YES THIS IS A COMMENT -->
-
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=compusalle&show_icons=true&theme=light)
 
