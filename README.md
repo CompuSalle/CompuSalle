@@ -26,5 +26,3 @@ I am W.A, a Red Team Penetration Tester working everywhere since 2018. My focus 
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=compusalle&layout=compact)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
